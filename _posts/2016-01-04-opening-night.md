@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T11:35:09.235Z'
-dateModified: '2016-01-04T11:35:05.691Z'
+datePublished: '2016-01-04T11:38:54.644Z'
+dateModified: '2016-01-04T11:38:44.827Z'
 title: Opening night
 author: []
 authors: []
@@ -22,4 +22,4 @@ url: opening-night/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a7eda53-550c-4734-825d-f925530ebfe8.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7c3f1b8-5478-43a2-a3bf-ded23e001b10.jpg)
