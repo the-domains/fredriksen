@@ -1,7 +1,7 @@
 name: fredriksen
 favicon: null
-layout_spectrum: 0.95476
-typography_spectrum: 0.9909757394343615
+layout_spectrum: 1
+typography_spectrum: 0.15983
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7264379835687578
+    - '#fefefe'
+    - '#010101'
+    - '#9e9e9e'
+    - '#6f6f6f'
+    - '#353535'
+  brandStrength: 0.5
   lightness: 0.6978947774041444
   saturation: 0.43264251737855375
   rhythmicContrast: 0.7402176281902939
