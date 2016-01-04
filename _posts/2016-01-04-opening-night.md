@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T11:41:47.184Z'
-dateModified: '2016-01-04T11:41:43.343Z'
+datePublished: '2016-01-04T11:41:56.111Z'
+dateModified: '2016-01-04T11:41:48.904Z'
 title: Opening night
 author: []
 sourcePath: _posts/2016-01-04-opening-night.md
