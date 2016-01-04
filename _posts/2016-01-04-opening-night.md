@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T11:39:15.976Z'
-dateModified: '2016-01-04T11:39:12.456Z'
+datePublished: '2016-01-04T11:41:04.629Z'
+dateModified: '2016-01-04T11:41:00.745Z'
 title: Opening night
 author: []
+sourcePath: _posts/2016-01-04-opening-night.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-opening-night.md
-published: true
 url: opening-night/index.html
 _type: Article
 
